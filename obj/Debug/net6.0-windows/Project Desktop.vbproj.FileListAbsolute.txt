@@ -1,0 +1,44 @@
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\SMK_Restaurant.exe
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\SMK_Restaurant.deps.json
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\SMK_Restaurant.runtimeconfig.json
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\SMK_Restaurant.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\SMK_Restaurant.pdb
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fakhr\source\repos\Project Desktop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\Project Desktop.vbproj.AssemblyReference.cache
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\SMK_Restaurant.AdminNav.resources
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\SMK_Restaurant.CashierNav.resources
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\SMK_Restaurant.ChangePswrd.resources
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\SMK_Restaurant.Form1.resources
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\SMK_Restaurant.FormManageEmployee.resources
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\SMK_Restaurant.FormManageMember.resources
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\SMK_Restaurant.FormManageMenu.resources
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\SMK_Restaurant.FrmOrder.resources
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\SMK_Restaurant.ManageOrder.resources
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\SMK_Restaurant.Resources.resources
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\SMK_Restaurant.Splash.resources
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\SMK_Restaurant.ViewOrder.resources
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\Project Desktop.vbproj.GenerateResource.cache
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\Project Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\Project Desktop.AssemblyInfoInputs.cache
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\Project Desktop.AssemblyInfo.vb
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\Project Desktop.vbproj.CoreCompileInputs.cache
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\Project Desktop.vbproj.CopyComplete
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\SMK_Restaurant.dll
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\refint\SMK_Restaurant.dll
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\SMK_Restaurant.pdb
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\Project Desktop.genruntimeconfig.cache
+C:\Users\fakhr\source\repos\Project Desktop\obj\Debug\net6.0-windows\ref\SMK_Restaurant.dll
